@@ -1,0 +1,1 @@
+Lucene Directorys are used by the IndexWriter to store information in the index. In addition to the FSDirectory implementation we are using, there are several other Directory subclasses that can write to RAM, to databases, etc.
