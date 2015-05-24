@@ -37,7 +37,10 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
 
-/** Simple command-line based search demo. */
+/** Simple command-line based search demo. 
+ * 
+ * -index data/index
+ * */
 public class SearchFiles {
 
   private SearchFiles() {}

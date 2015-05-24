@@ -50,6 +50,10 @@ import org.apache.lucene.store.FSDirectory;
  * <p>
  * This is a command-line application demonstrating simple Lucene indexing.
  * Run it with no command-line arguments for usage information.
+ * 
+ * 
+ * 
+ * -docs data/docs -index data/index
  */
 public class IndexFiles {
   
